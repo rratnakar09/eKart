@@ -16,6 +16,7 @@ This web application have functionalities of<br>
 * Create a virtual environtment with python3 $ python3 -m venv env
 * Install from requirement.txt $ pip install -r requirements.txt 
 * Create a super user $ python manage.py createsuperuser
+
 Work and test this application. Thank you!
 
 Future Work:
